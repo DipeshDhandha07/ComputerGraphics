@@ -1,11 +1,10 @@
 # Computer Graphics
 These are simple programs created using matplotlib, numpy module in python language
 <br>
-
+<br>
 
 ## Download
 <br>
-
 ### Python
 
 https://www.python.org/downloads/
